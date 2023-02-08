@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-pages-index-js-19cf9a05957023c636f5.js","mappings":"sIAQA,UALA,WACE,OACE,0BAAI,QAER,C","sources":["webpack://term-project/./src/pages/index.js"],"sourcesContent":["import * as React from \"react\"\r\n\r\n\r\nfunction App(){\r\n  return(\r\n    <h1>watup</h1>\r\n  )\r\n}\r\nexport default App\r\n"],"names":[],"sourceRoot":""}
